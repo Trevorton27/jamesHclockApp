@@ -10,7 +10,7 @@ p {
   text-align: center;
   text-shadow: 3px 3px #404040;
 }
-.title {
+#clockTitle {
   font-size: 40px;
   letter-spacing: 1px;
 }

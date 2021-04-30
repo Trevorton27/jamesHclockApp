@@ -48,4 +48,7 @@ function tic (){
     clockDate.textContent=day+', '+mm+' '+dd+' '+yyyy
 
 }
+
+tic()
+
 setInterval(tic, 1000);
