@@ -18,7 +18,7 @@ function dateSuffix(i){
 }
 
 function amPm(i){
-  if(i<13){
+  if(i<12){
     return "AM";
   } else{
     return "PM";
