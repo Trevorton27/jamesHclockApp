@@ -11,12 +11,12 @@ p {
   text-shadow: 3px 3px #404040;
 }
 .title {
-  font-size: 30px;
+  font-size: 40px;
   letter-spacing: 1px;
 }
-.time {
-  font-size: 80px;
+#time {
+  font-size: 100px;
 }
-.date {
-  font-size: 50px;
+#date {
+  font-size: 70px;
 }
